@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '37777'
     url: http://www.gutenberg.org/2009/agents/37777
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35599#The-Funny-Philosophers--13-Or-Wags-and-Sweethearts
 gutenberg_issued: '2011-03-17'
 gutenberg_type: Text
 identifiers:
